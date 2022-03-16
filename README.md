@@ -1,9 +1,9 @@
 
-### Hi there, I'm XiongYiYiYi 👨‍💻
+### Hi, I'm XiongYiYiYi 👨‍💻
 
 [📧](leluo628@gmail.com)
 
-> a Front End Engineer
+> A Front End Engineer
 
 #### 📍 Currently base at: Shanghai, China
 
