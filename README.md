@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hi 👋, I'm XiongYiYi</h1>
-<h3 align="center">🚀 fullstack devlover 🚀</h3>
+<h1 align="center"> Hi 👋 I'm XiongYiYi</h1>
+<h3 align="center">🚀 Front End Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
@@ -14,6 +14,6 @@
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavdubeyad9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=XiongYiYi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
 ⭐️ From [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
