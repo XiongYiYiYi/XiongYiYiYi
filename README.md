@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋 I'm XiongYiYi</h1>
 <h3 align="center">🚀 Front End Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XiongYiYi" alt="abhinavdubeyad9" /> </p>
 
 - 🔭 I’m currently working on Envision Grpup
 - 🌱 I’m currently learning React & Node.js
